@@ -1,17 +1,10 @@
 # customer_behavior_analysis
 Data analytics project showcasing customer behavior analysis using python, sql and power BI.
 
-## 📌 Overview
-
-This project demonstrates a complete Data Analytics workflow, starting from raw data processing to business insights visualization. The project includes data loading, exploratory data analysis (EDA), data cleaning, SQL-based analysis, dashboard development in Power BI, report generation, and presentation creation using Gamma.
-
-The objective is to transform raw data into meaningful insights that support data-driven decision-making.
-
----
 
 ## 📂 Dataset
 
-**Dataset Name:** [Dataset Name]
+**Dataset Name:** [CUSTOMER_SHOPPING_BEHAVIOR]
 
 **Source:** [Kaggle / Company Data / Public Dataset]
 
@@ -25,8 +18,8 @@ The objective is to transform raw data into meaningful insights that support dat
 
 ### Dataset Information
 
-* Number of Rows: XXXX
-* Number of Columns: XX
+* Number of Rows: 3901
+* Number of Columns: 18
 * File Format: CSV / Excel / Database
 
 ---
@@ -241,15 +234,5 @@ jupyter notebook
 * Report and presentation development.
 * Data-driven insights for decision-making.
 
----
-
-## 👨‍💻 Author
-
-**Your Name**
-
-* LinkedIn: https://linkedin.com/in/your-profile
-* GitHub: https://github.com/your-profile
-
----
 
 ## ⭐ If you found this project useful, please consider giving it a star.
